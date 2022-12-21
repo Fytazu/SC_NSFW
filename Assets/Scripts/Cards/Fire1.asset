@@ -18,3 +18,13 @@ MonoBehaviour:
   dialogue: yo whats up ?
   leftQuote: You are swiping left dude
   rightQuote: 'You are swiping right ok '
+  kSafetyLeft: 10
+  kFaithLeft: 0
+  kTreasureLeft: -10
+  kPeopleLeft: 0
+  kArmyLeft: 10
+  kSafetyRight: 0
+  kFaithRight: 10
+  kTreasureRight: 0
+  kPeopleRight: 10
+  kArmyRight: 0

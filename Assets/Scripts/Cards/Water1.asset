@@ -18,3 +18,13 @@ MonoBehaviour:
   dialogue: Get out kid  !!
   leftQuote: You are swiping left
   rightQuote: You are swiping right
+  kSafetyLeft: 10
+  kFaithLeft: 0
+  kTreasureLeft: 0
+  kPeopleLeft: 0
+  kArmyLeft: 0
+  kSafetyRight: -10
+  kFaithRight: 0
+  kTreasureRight: 0
+  kPeopleRight: 0
+  kArmyRight: 10

@@ -14,7 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardID: 2
   cardName: Generic grass action
-  sprite: 0
+  sprite: 2
   dialogue: hey how are y ?
   leftQuote: 'Go left '
   rightQuote: Go right mtf
+  kSafetyLeft: 0
+  kFaithLeft: 10
+  kTreasureLeft: 0
+  kPeopleLeft: -10
+  kArmyLeft: 0
+  kSafetyRight: -10
+  kFaithRight: 0
+  kTreasureRight: 0
+  kPeopleRight: 0
+  kArmyRight: 10
