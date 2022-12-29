@@ -64,6 +64,8 @@
     <Compile Include="Assets\PixelartCardTCG\Demo\Samples\Scriptes\MouseControl.cs" />
     <Compile Include="Assets\Scripts\ResourceManager.cs" />
     <Compile Include="Assets\PixelartCardTCG\Demo\Samples\Scriptes\CardControl.cs" />
+    <Compile Include="Assets\Scripts\MenuController.cs" />
+    <Compile Include="Assets\Scripts\LevelLoader.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

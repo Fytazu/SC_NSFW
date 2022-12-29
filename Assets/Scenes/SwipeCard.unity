@@ -1277,7 +1277,7 @@ MonoBehaviour:
   resourceManager: {fileID: 735473533}
   defaultPositionCard: {x: 0, y: -1.8}
   fMovingSpeed: 0.1
-  fRotationSpeed: 2
+  fRotationSpeed: 5
   fSideMargin: 0.3
   fSideTrigger: 2
   divideValue: 1.5
