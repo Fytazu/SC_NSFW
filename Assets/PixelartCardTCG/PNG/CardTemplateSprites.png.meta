@@ -240,7 +240,7 @@ TextureImporter:
       213: 3534000921709554944
     second: HealthBar2_Fill_Red
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -261,6 +261,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -299,6 +300,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -338,6 +340,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1144,7 +1158,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 84c0528697c1d02f0800000000000000
-      internalID: -1005115834069873592
+      internalID: -2710627316883375812
       vertices: []
       indices: 
       edges: []
@@ -1165,7 +1179,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5367f274599dc9500800000000000000
-      internalID: 404437301724149301
+      internalID: -7382951232287679616
       vertices: []
       indices: 
       edges: []
@@ -1186,7 +1200,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5729c4b863fad9780800000000000000
-      internalID: -8674584658445561227
+      internalID: 7614574872227714490
       vertices: []
       indices: 
       edges: []
@@ -1207,7 +1221,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e667b6d06c4187b50800000000000000
-      internalID: 6591040895517947502
+      internalID: -211255342891729768
       vertices: []
       indices: 
       edges: []
@@ -1228,7 +1242,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c7b85c8413a766790800000000000000
-      internalID: -7537202574265054340
+      internalID: 2691421800441167554
       vertices: []
       indices: 
       edges: []
@@ -1249,7 +1263,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 1b686296c29b20a80800000000000000
-      internalID: -8502029546128243023
+      internalID: 8730681953988357209
       vertices: []
       indices: 
       edges: []
@@ -1270,7 +1284,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c9a25b1a4256c44f0800000000000000
-      internalID: -843187822218892644
+      internalID: -7221823763007480939
       vertices: []
       indices: 
       edges: []
@@ -1291,7 +1305,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4f726f566e783a120800000000000000
-      internalID: 2423930448078317556
+      internalID: 7983885485109032538
       vertices: []
       indices: 
       edges: []
@@ -1312,7 +1326,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 48fe6b704ff8942c0800000000000000
-      internalID: -4446864878787432572
+      internalID: -2066849461130780280
       vertices: []
       indices: 
       edges: []
@@ -1810,6 +1824,76 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Icon_sword: 2691421800441167554
+      Card_Border_hexagon_dark: 2264458523507642371
+      gem_3: 896008859028648996
+      gem_2: 6515629438324464247
+      Rank_4: 6928673055824294935
+      Title_Vert_substrate_red: -7936006672088471792
+      Desc_Icon_4: 898863049702895244
+      Card_Back_0: -1432121792826511484
+      gem_0: -9206838919312798506
+      Icon_scull: -7221823763007480939
+      Rank_1: -6015880558415363744
+      Cost_Mana: -8745766463601185182
+      Desc_Icon_0: 4231833207840782478
+      Icon_: -2066849461130780280
+      Conteiner_bronze: -5230688040620414778
+      Conteiner_gold: 4939695646471159523
+      Card_Back_1: 5203119476218637104
+      Desc_Field_Icon_5: -3625136235312465947
+      Title_substrate_brown: 3953236122643654663
+      Card_Back_5: 3979280662108003493
+      gem_4: 8802978331890681932
+      Desc_Field_Icon_2: -4975688805787726872
+      Desc_Icon_1: -3808901583460807075
+      Card_Border_rectangle_silver: 2869102851392692707
+      Title_substrate_yellow: 1841460602357423257
+      Title_substrate: -1500764781649687460
+      Card_Back_2: 6050865176156489209
+      Mask_hexagon: 7875804557599293360
+      Desc_Icon_6: 2880634002456290556
+      Title_Vert_substrate_yellow: 4012389110120411785
+      Rank_0: 3967919422284357019
+      Desc_Icon_5: 8129774688571460947
+      Icon_plant: -2710627316883375812
+      Icon_star: 7614574872227714490
+      Desc_Field_Icon_6: 1840505696428749925
+      gem_5: 8479903185287042497
+      gem_1: -8400670950057650449
+      Desc_Field_Icon_1: -1006485672511197102
+      Card_Border_rectangle_gold: -4083507453021018663
+      Ison_bone: 8730681953988357209
+      Cost_Coin: -4001101304822521760
+      Desc_Field_Icon_4: 6015058231967779278
+      Desc_substrate: 7916189562954084112
+      Desc_Icon_3: 5317215229843656012
+      Desc_Icon_2: 4751518365507349294
+      Card_Border_rectangle_bronze: 4686815256303124604
+      Rank_3: -6767615801659882507
+      Icon_loot: 7983885485109032538
+      Conteiner_light: 6853125067223639812
+      Card_Border_hexagon_silver: 8681826196295349328
+      Desc_Field: 3630583566268488690
+      Conteiner_Dark: -9196232339229951499
+      Title_substrate_red: -5393016544879943580
+      ToolTip: 9165958977708683563
+      Mask_rectangle: -7165881727702934391
+      Card_Border_rectangle_dark: 4132073928841064229
+      Title_Vert_substrate_brown: 4326577467171320460
+      Icon_sheld: -211255342891729768
+      Cost_Blood: 909844263557509806
+      Icon_water: -7382951232287679616
+      Card_Border_hexagon_gold: -5686647631975829124
+      Conteiner_: 1599505094621652985
+      Desc_Field_Icon_0: -335823697494728013
+      Desc_Field_Icon_3: -1825586226780464008
+      Desc_Field_Icon_7: 1845323731060486153
+      Card_Border_hexagon_bronze: -1204665241221674782
+      Rank_5: -9045301413570246603
+      Conteiner_silver: -2825973907438196786
+      Rank_2: 3463983450324853707
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

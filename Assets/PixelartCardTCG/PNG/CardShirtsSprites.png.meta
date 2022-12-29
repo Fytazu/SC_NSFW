@@ -45,7 +45,7 @@ TextureImporter:
       213: -6946822560320214702
     second: CardShirts_14
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -66,6 +66,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -104,6 +105,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -143,6 +145,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -460,6 +474,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      CardShirts_13: -8182399277749394982
+      CardShirts_5: -1481597448430017666
+      CardShirts_1: 1745588337137995005
+      CardShirts_2: -4398435546622459878
+      CardShirts_8: 2288579225434922874
+      CardShirts_11: -4841947309588536660
+      CardShirts_3: -7650939817992889380
+      CardShirts_10: -7734997973721739219
+      CardShirts_9: 2791646385131423412
+      CardShirts_14: -6946822560320214702
+      CardShirts_4: 8477346377270157210
+      CardShirts_0: 3500552766227541793
+      CardShirts_7: 5800455055845298415
+      CardShirts_12: 2691410114318030091
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
