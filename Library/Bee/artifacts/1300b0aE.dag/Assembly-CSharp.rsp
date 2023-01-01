@@ -376,6 +376,7 @@
 "Assets/Scripts/Card.cs"
 "Assets/Scripts/CardController.cs"
 "Assets/Scripts/GameManager.cs"
+"Assets/Scripts/GameOverScreen.cs"
 "Assets/Scripts/InterfaceManager.cs"
 "Assets/Scripts/LevelLoader.cs"
 "Assets/Scripts/MenuController.cs"

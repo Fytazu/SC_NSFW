@@ -39,6 +39,8 @@ public class GameManager : MonoBehaviour
     public TMP_Text characterDialogue;
     public TMP_Text actionQuote;
     public SpriteRenderer actionBackground;
+    //GameOver
+    
     //Card variables
     public string direction;
     private string leftQuote;
@@ -166,4 +168,6 @@ public class GameManager : MonoBehaviour
         LoadCard(resourceManager.cards[rollDice]);
     }
 
+   
+    
 }
